@@ -1,2 +1,2 @@
 # Tailwind2
-Practical Activity 2
+Practical Activity: Responsiveness
